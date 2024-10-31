@@ -10,6 +10,8 @@ El objetivo es pulir el juego mediante muchas de las opciones explicadas en los 
 ### Por hacer (más ! = mayor importancia)
 
   ? traducirlo todo
+  !!! fix known bugs and maybe improve some messy code
+  !!! add debug menu
   
   !!! add a new type (fairy)
   ! add a new pack pocket
@@ -51,6 +53,8 @@ El objetivo es pulir el juego mediante muchas de las opciones explicadas en los 
   !!! allow using a field move if the pokémon can learn it
   ! toggable items like repel or healing from party menu
 
+  ! cambiar las unidades de medida imperiales por sistema métrico
+  ! experimentar con las opciones de player - género, colores...
   ! implementar el plano aéreo para sustituir el tipo Volador o la habilidad Levitación
   
 # Pokémon Crystal [![Build Status][ci-badge]][ci]
