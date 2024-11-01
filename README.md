@@ -1,3 +1,5 @@
+# esto es un commit para aprender a revertirlo #
+
 ## Esto es un fork de pret/pokecrystal
 
 El objetivo es pulir el juego mediante muchas de las opciones explicadas en los tutoriales y así tener una base para otros proyectos derivados.
