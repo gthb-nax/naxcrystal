@@ -1,5 +1,4 @@
 # esto es un commit para aprender a revertirlo #
-y esta segunda línea es para abrir un pull request en vez de commit y ver si se puede revertir desde la web para no bajarme el desktop
 
 ## Esto es un fork de pret/pokecrystal
 
