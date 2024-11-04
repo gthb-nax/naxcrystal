@@ -7,6 +7,9 @@
   editar la radio del cuarto de Player para facilitar un quickcheck sin debug
   fix pic banks offset
   re-enable animated tiles even when textboxes are open
+  fasten the healing at a healing machine
+  fix PokemonPicPointers and UnownPicPointers' address assumption
+  fix footprints' top and bottom halves split
 
 ### Por hacer (más ! = mayor importancia)
 
@@ -42,7 +45,7 @@
   !! reusable tms
   !!! running shoes
   tweak sandstorm and hail behaviours
-  use unic colours for each pokeball
+  use unic colours for each pokeball (tweak also healing and HOF machines?)
   smashing rocks or headbutting trees may give items
   make grass-type mons immune to powders
   reviving pokémon from fossils
