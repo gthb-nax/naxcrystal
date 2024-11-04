@@ -1,9 +1,12 @@
 ### Hecho
 
-  remove pokémon sprite animations 31/08/24
-  añadir este DONETODO.md a modo de roadmap 03/09/24
-  editar la radio del cuarto de Player para facilitar un quickcheck sin debug 03/09/24
-  fix pic banks offset 03/09/24
+  31/08/24
+  remove pokémon sprite animations 
+  03/09/24
+  añadir este DONETODO.md a modo de roadmap 
+  editar la radio del cuarto de Player para facilitar un quickcheck sin debug
+  fix pic banks offset
+  re-enable animated tiles even when textboxes are open
 
 ### Por hacer (más ! = mayor importancia)
 
