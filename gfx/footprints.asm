@@ -15,7 +15,7 @@ INCBIN "gfx/footprints/charmander.1bpp"
 INCBIN "gfx/footprints/charmeleon.1bpp"
 INCBIN "gfx/footprints/charizard.1bpp"
 INCBIN "gfx/footprints/squirtle.1bpp"
-INCBIN "gfx/footprints/wartortle.1bpp",
+INCBIN "gfx/footprints/wartortle.1bpp"
 INCBIN "gfx/footprints/blastoise.1bpp"
 INCBIN "gfx/footprints/caterpie.1bpp"
 INCBIN "gfx/footprints/metapod.1bpp"
