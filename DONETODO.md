@@ -10,6 +10,9 @@
   fasten the healing at a healing machine
   fix PokemonPicPointers and UnownPicPointers' address assumption
   fix footprints' top and bottom halves split
+  08/09/24
+  change ft and lb symbols in dex for m and kg
+  update (by hand!) dex_entries measurements like ---(height), ----(weight) - no padding with 0 needed for small pokémon
 
 ### Por hacer (más ! = mayor importancia)
 
