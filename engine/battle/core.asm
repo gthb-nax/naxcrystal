@@ -6162,7 +6162,7 @@ LoadEnemyMon:
 	callfar CalcMagikarpLength
 
 ; No reason to keep going if length > 1536 mm (i.e. if HIGH(length) > 6 feet)
-	ld a, [wMagikarpLength]
+	ld a, [wMagikarpLengthMm]
 	cp HIGH(1536)
 	jr nz, .CheckMagikarpArea
 
@@ -6171,7 +6171,7 @@ LoadEnemyMon:
 	cp 5 percent
 	jr c, .CheckMagikarpArea
 ; Try again if length >= 1616 mm (i.e. if LOW(length) >= 4 inches)
-	ld a, [wMagikarpLength + 1]
+	ld a, [wMagikarpLengthMm + 1]
 	cp LOW(1616)
 	jr nc, .GenerateDVs
 
@@ -6180,7 +6180,7 @@ LoadEnemyMon:
 	cp 20 percent - 1
 	jr c, .CheckMagikarpArea
 ; Try again if length >= 1600 mm (i.e. if LOW(length) >= 3 inches)
-	ld a, [wMagikarpLength + 1]
+	ld a, [wMagikarpLengthMm + 1]
 	cp LOW(1600)
 	jr nc, .GenerateDVs
 
@@ -6197,7 +6197,7 @@ LoadEnemyMon:
 	cp 39 percent + 1
 	jr c, .Happiness
 ; Try again if length < 1024 mm (i.e. if HIGH(length) < 3 feet)
-	ld a, [wMagikarpLength]
+	ld a, [wMagikarpLengthMm]
 	cp HIGH(1024)
 	jr c, .GenerateDVs ; try again
 

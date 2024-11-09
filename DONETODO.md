@@ -13,6 +13,8 @@
   08/09/24
   change ft and lb symbols in dex for m and kg
   update (by hand!) dex_entries measurements like ---(height), ----(weight) - no padding with 0 needed for small pokémon
+  09/09/24
+  return Magikarp length event to mm! - adapted from Rangi42's polishedcrystal because i just couldn't figure it out!
 
 ### Por hacer (más ! = mayor importancia)
 
@@ -60,6 +62,5 @@
   !!! allow using a field move if the pokémon can learn it
   ! toggable items like repel or healing from party menu
 
-  ! cambiar las unidades de medida imperiales por sistema métrico
   ! experimentar con las opciones de player - género, colores...
   ! implementar el plano aéreo para sustituir el tipo Volador o la habilidad Levitación

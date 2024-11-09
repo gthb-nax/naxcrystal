@@ -2621,7 +2621,9 @@ NEXTU
 ; miscellaneous words
 wBuySellItemPrice::
 wTempMysteryGiftTimer::
-wMagikarpLength:: dw
+wMagikarpLengthMm::
+wMagikarpLengthMmHi:: db
+wMagikarpLengthMmLo:: db
 ENDU
 
 wTempEnemyMonSpecies::  db
@@ -3385,8 +3387,9 @@ wRoamMons_CurMapGroup:: db
 wRoamMons_LastMapNumber:: db
 wRoamMons_LastMapGroup:: db
 
-wBestMagikarpLengthFeet:: db
-wBestMagikarpLengthInches:: db
+wBestMagikarpLengthMm::
+wBestMagikarpLengthMmHi:: db
+wBestMagikarpLengthMmLo:: db
 wMagikarpRecordHoldersName:: ds NAME_LENGTH
 
 wPokemonDataEnd::
