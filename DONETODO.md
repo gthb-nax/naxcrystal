@@ -15,7 +15,8 @@
   update (by hand!) dex_entries measurements like ---(height), ----(weight) - no padding with 0 needed for small pokémon
   09/09/24
   return Magikarp length event to mm! - adapted from Rangi42's polishedcrystal because i just couldn't figure it out!
-  fixed texts with references to imperial units
+  fix texts with references to imperial units
+  fix multiplayer battle engine bugs
 
 ### Por hacer (más ! = mayor importancia)
 
@@ -65,3 +66,5 @@
 
   ! experimentar con las opciones de player - género, colores...
   ! implementar el plano aéreo para sustituir el tipo Volador o la habilidad Levitación
+  cambiar los turnos de confusión
+  cambiar el funcionamiento de congelación
