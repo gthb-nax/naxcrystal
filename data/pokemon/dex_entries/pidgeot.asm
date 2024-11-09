@@ -7,4 +7,4 @@
 
 	page "MAGIKARP, even"
 	next "while flying at"
-	next "3300 feet.@"
+	next "1000 metres.@"

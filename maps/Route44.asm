@@ -337,7 +337,8 @@ FisherWiltonHugePoliwagText:
 	cont "It was huge."
 
 	para "I swear it must've"
-	line "been 16 feet long!"
+	line "been at least"
+	line "4 metres long!"
 	done
 
 FisherEdgarSeenText:

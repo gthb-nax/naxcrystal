@@ -15,6 +15,7 @@
   update (by hand!) dex_entries measurements like ---(height), ----(weight) - no padding with 0 needed for small pokémon
   09/09/24
   return Magikarp length event to mm! - adapted from Rangi42's polishedcrystal because i just couldn't figure it out!
+  fixed texts with references to imperial units
 
 ### Por hacer (más ! = mayor importancia)
 
