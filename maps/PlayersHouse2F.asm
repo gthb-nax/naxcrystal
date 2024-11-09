@@ -146,6 +146,15 @@ PlayersHouseRadioScript:
 	loadmem wPartyMon4Moves+1, ROCK_SMASH
 	loadmem wPartyMon4Moves+2, CUT
 	loadmem wPartyMon4Moves+3, WATERFALL
+	; magikarp guru at lake of rage check
+	setevent EVENT_CLEARED_ROCKET_HIDEOUT
+	clearflag ENGINE_ROCKET_SIGNAL_ON_CH20
+	setevent EVENT_ROUTE_43_GATE_ROCKETS
+	setevent EVENT_MAHOGANY_TOWN_POKEFAN_M_BLOCKS_GYM
+	setscene SCENE_TEAMROCKETBASEB2F_NOOP
+	clearevent EVENT_LAKE_OF_RAGE_CIVILIANS
+	giveitem OLD_ROD
+	setevent EVENT_GOT_OLD_ROD
 	; intro events
 	addcellnum PHONE_MOM
 	setmapscene PLAYERS_HOUSE_1F, $1
