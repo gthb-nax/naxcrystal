@@ -17,6 +17,10 @@
   return Magikarp length event to mm! - adapted from Rangi42's polishedcrystal because i just couldn't figure it out!
   fix texts with references to imperial units
   fix multiplayer battle engine bugs
+  12/11/24
+  remove badge stat boosts
+  fix single-player battle engine bugs (prevented scrolling on battle moves menu) - except transformed pkmn can still learn whatever via sketch (but it fails if the rival is transformed), wild pkmn can still teleport regardless of level
+  made every gym leader have 13 dvs and elite four+red 15
 
 ### Por hacer (más ! = mayor importancia)
 
