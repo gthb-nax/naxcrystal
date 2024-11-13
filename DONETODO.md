@@ -23,6 +23,9 @@
   made every gym leader have 13 dvs and elite four+red 15
   13/11/24
   fix overworld engine bugs
+  fix graphic bugs
+  -tried to change ruins of alph roof to shiny unown's colours
+  -not fixing slowpoke well until abilitating polishedmap++
 
 ### Por hacer (más ! = mayor importancia)
 
