@@ -26,6 +26,8 @@
   fix graphic bugs
   -tried to change ruins of alph roof to shiny unown's colours
   -not fixing slowpoke well until abilitating polishedmap++
+  15/11/24
+  fix audio bugs - except i didn't give scientists Rocket music
 
 ### Por hacer (más ! = mayor importancia)
 
