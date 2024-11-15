@@ -30,6 +30,7 @@
   fix audio bugs - except i didn't give scientists Rocket music
   fix text bugs
   fix scripted events bugs - Magikarp length events were tweaked before
+  fix internal engine routines bugs - except save corruption by mid-save shutoff
 
 ### Por hacer (más ! = mayor importancia)
 
