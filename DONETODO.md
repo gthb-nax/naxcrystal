@@ -28,6 +28,8 @@
   -not fixing slowpoke well until abilitating polishedmap++
   15/11/24
   fix audio bugs - except i didn't give scientists Rocket music
+  fix text bugs
+  fix scripted events bugs - Magikarp length events were tweaked before
 
 ### Por hacer (más ! = mayor importancia)
 
