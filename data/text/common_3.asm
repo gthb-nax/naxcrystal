@@ -305,8 +305,8 @@ _SeerNameLocationText::
 	prompt
 
 _SeerTimeLevelText::
-	text "The time was"
-	line "@"
+	text "It happened during"
+	line "the @"
 	text_ram wSeerTimeOfDay
 	text "!"
 

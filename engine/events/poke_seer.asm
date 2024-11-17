@@ -201,9 +201,9 @@ GetCaughtTime:
 	ret
 
 .times
-	db "Morning@"
-	db "Day@"
-	db "Night@"
+	db "morning@"
+	db "day@"
+	db "night@"
 
 UnknownCaughtData:
 	ld hl, .unknown

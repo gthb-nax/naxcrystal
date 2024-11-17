@@ -36,15 +36,14 @@
 ### Por hacer (más ! = mayor importancia)
 
   ? traducirlo todo
-  !!! fix known bugs and maybe improve some messy code
+  !! fix slowpoke well tiles and maybe improve some messy code
   ! implement password system - grant quickcheck, show cheatsheet, starter sets, shiny charm...
   
   !!! add a new type (fairy)
   ! add a new pack pocket
   
   !! expand tilesets from 192 to 255
-  ! allow priority colours
-  allow tiles to have different attributes including x y flip - reduced tilesets?
+  !! allow tiles to have different attributes including x y flip and priority colours - reduced tilesets?
   colour party menu icons by species
   allow more trainer parties with specifities
   print text when you lose a trainer battle
