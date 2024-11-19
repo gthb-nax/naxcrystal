@@ -34,12 +34,16 @@
   fix pokédex entry banks being derived from their species' ID
   19/11/24
   fix getforesttreeframe and overworld scripting no more than 127 banks assumption
+  finish removing badge boosts, including text references
+  shorten beeping noise from low HP
+  remove failure chance for AI status moves
+
 
 ### Por hacer (más ! = mayor importancia)
 
   ? traducirlo todo
-  !! fix slowpoke well tiles and maybe improve some messy code
-  ! implement password system - grant quickcheck, show cheatsheet, starter sets, shiny charm...
+  !! fix slowpoke well tiles and maybe improve some messy code (lvl 63, pokeseer, sine code)
+  implement password system - grant quickcheck, show cheatsheet, starter sets, shiny charm...
   
   !!! add a new type (fairy)
   ! add a new pack pocket
@@ -49,7 +53,6 @@
   colour party menu icons by species
   allow more trainer parties with specifities
   print text when you lose a trainer battle
-  !! short beeping noise from low HP
   ! remove artificial save delay
   ! acortar la duración del script de curación en centro pokémon
   option to show shiny colours in pokédex
@@ -57,9 +60,7 @@
   !! modify existing gender formula - so female pokémon are not necessarily weaker lol
   display more information on the move screen
 
-  remove failure chance for AI
   ? remove redundant move grammar
-  ! remove gym badges boosts
 
   !!! implement physical/special split
   ! replace stat exp with dvs

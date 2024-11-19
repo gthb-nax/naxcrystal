@@ -153,13 +153,9 @@ ReceivedZephyrBadgeText:
 
 FalknerZephyrBadgeText:
 	text "ZEPHYRBADGE"
-	line "raises the attack"
-	cont "power of #MON."
+	line "enables #MON to"
 
-	para "It also enables"
-	line "#MON to use"
-
-	para "FLASH, if they"
+	para "use FLASH, if they"
 	line "have it, anytime."
 
 	para "Here--take this"
