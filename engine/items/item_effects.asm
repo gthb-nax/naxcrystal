@@ -891,10 +891,7 @@ MoonBallMultiplier:
 	ret nz
 
 	inc hl
-	inc hl
-	inc hl
 
-; BUG: fixed?? on tutorial the incs above are below... only for moon stone as first evo method
 	push bc
 	ld a, BANK("Evolutions and Attacks")
 	call GetFarByte
