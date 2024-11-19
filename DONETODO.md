@@ -32,6 +32,8 @@
   fix scripted events bugs - Magikarp length events were tweaked before
   fix internal engine routines bugs - except save corruption by mid-save shutoff
   fix pokédex entry banks being derived from their species' ID
+  19/11/24
+  fix getforesttreeframe and overworld scripting no more than 127 banks assumption
 
 ### Por hacer (más ! = mayor importancia)
 
